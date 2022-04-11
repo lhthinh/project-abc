@@ -1,0 +1,27 @@
+
+.banner{
+    height: 5px;
+    background-color: rgba(1,148,243,1.00);
+}
+.dangnhap{
+    width: 300px;
+    height: 200px;
+}
+.banner1{
+    background-color: white;
+}
+.banner2{
+    height: 40px;
+    background-color: #b7b7b7;
+}
+.menu{
+    margin-top: 7px;
+    margin-right: 10px;
+    
+    color: rgba(1,148,243,1.00);
+}
+.textbanner2{
+    color: white;
+}
+
+

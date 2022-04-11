@@ -1,0 +1,35 @@
+.main-footer{
+    background-color: #1b1b1b;
+    position: relative;
+    bottom: 0;
+    margin-top: auto;
+}
+.img{
+    margin-right: 16px;
+    margin-bottom: 16px;
+   
+}
+.box{
+    border: solid 1px white;
+    border-radius: 10px;
+    display: flex;
+}
+
+.alink{
+    color: rgb(84, 91, 93);
+}
+.alink:hover{
+    text-decoration: underline;
+    text-decoration-line: underline;
+    color: white;
+}
+.categories{
+    color: white;
+}
+.afooter{
+    padding-top: 8px;
+}
+.row{
+    padding-top:56px ;
+    padding-bottom: 80px;
+}
